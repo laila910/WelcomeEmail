@@ -1,5 +1,9 @@
 <?php
 echo 'home.php file';
+echo 'home.php file';
+echo 'home.php file';
+echo 'home.php file';
+
 ?>
 
 <!DOCTYPE html>
